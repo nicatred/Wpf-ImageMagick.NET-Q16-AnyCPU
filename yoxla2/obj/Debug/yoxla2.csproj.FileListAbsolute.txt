@@ -1,0 +1,69 @@
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\yoxla2.exe.config
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\yoxla2.pdb
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.dll
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\nQuant.Core.dll
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.xml
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\bin\Debug\nQuant.Core.pdb
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.csprojAssemblyReference.cache
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\MainWindow.g.cs
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\App.g.cs
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2_Content.g.cs
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.cache
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.lref
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\MainWindow.baml
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.g.resources
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.Properties.Resources.resources
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.GenerateResource.cache
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\yoxla2\yoxla2\obj\Debug\yoxla2.pdb
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\MainWindow.g.cs
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\App.g.cs
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2_Content.g.cs
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.cache
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.lref
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.pdb
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\yoxla2.exe.config
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\yoxla2.pdb
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.dll
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\nQuant.Core.dll
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.xml
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\bin\Debug\nQuant.Core.pdb
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\MainWindow.baml
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.g.resources
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.Properties.Resources.resources
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.GenerateResource.cache
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\New folder\yoxla2\yoxla2\obj\Debug\yoxla2.csprojAssemblyReference.cache
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\yoxla2.exe.config
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\yoxla2.pdb
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.dll
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\nQuant.Core.dll
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\Magick.NET.Core.xml
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\bin\Debug\nQuant.Core.pdb
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.csprojAssemblyReference.cache
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\MainWindow.g.cs
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\App.g.cs
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2_Content.g.cs
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.cache
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2_MarkupCompile.lref
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\MainWindow.baml
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.g.resources
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.Properties.Resources.resources
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.GenerateResource.cache
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.exe
+C:\Users\Nijatred\Desktop\gray-pan-mirror\yoxla2\yoxla2\obj\Debug\yoxla2.pdb

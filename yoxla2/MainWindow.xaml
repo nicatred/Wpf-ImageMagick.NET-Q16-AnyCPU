@@ -1,0 +1,41 @@
+﻿<Window x:Name="WPF_WINDOW" x:Class="yoxla2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:yoxla2"
+        xmlns:ribbon="clr-namespace:System.Windows.Controls.Ribbon;assembly=System.Windows.Controls.Ribbon"
+
+        mc:Ignorable="d"
+        Title="MainWindow" Height="622" Width="1389" MouseWheel="WPF_WINDOW_MouseWheel" MouseMove="WPF_WINDOW_MouseMove">
+    <Grid>
+        <ribbon:Ribbon Grid.ColumnSpan="1" Margin="5,0,1,344">
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu SmallImageSource="img/files.jpg">
+                    <RibbonApplicationMenuItem Name="save_as" Header="Save As" ImageSource="img/save-as.jpg" Click="save_as_Click" />
+                    <RibbonApplicationMenuItem Name="open" Header="Open" ImageSource="img/open.png" Click="open_Click" />
+                    <RibbonApplicationMenuItem Name="exit" Header="Exit" ImageSource="img/exit.png" Click="exit_Click" />
+                </RibbonApplicationMenu>
+
+            </Ribbon.ApplicationMenu>
+            <RibbonTab Name="tab1" Header="Home" Margin="0,0,-2,-12" >
+                <RibbonGroup Name="group1" Header="Image operations">
+                    <RibbonButton Name="monocrome" Label="Monochromic" LargeImageSource="img/monochrome.png" Click="monocrome_Click"   />
+                    <RibbonButton Name="mirror" Label="Mirror" LargeImageSource="img/mirror.png" Height="66" Width="85" Click="mirror_Click" />
+                </RibbonGroup>
+                <RibbonGroup Name="tab2" Header="Simple operations" Margin="0,1" Width="110">
+                    <RibbonButton Name="zoom" Label="zoom" LargeImageSource="img/zoom.png" Margin="-5,0,-83,-20" Height="65"  VerticalAlignment="Top" Click="zoom_Click" RenderTransformOrigin="-0.011,0.569"/>
+                </RibbonGroup>
+            </RibbonTab>
+        </ribbon:Ribbon>
+
+        <Image  Stretch="Uniform"  Canvas.Left="60"  HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="345" Name="origin" Source="img/plus.png"  Canvas.Top="166" MouseLeftButtonDown="origin_MouseLeftButtonDown" Margin="0,160,0,0" MouseRightButtonDown="origin_MouseRightButtonDown" />
+        <Label Canvas.Right="10" Canvas.Bottom="10" Content="Label" Name ="status" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="852" Canvas.Top="489" RenderTransformOrigin="0.263,1.769" Margin="1315,555,0,0" Width="45"/>
+
+
+
+        <Border ClipToBounds="True" Name="border" Margin="610,150,6,55">
+            <Image Stretch="Uniform" HorizontalAlignment="Right" Height="300" VerticalAlignment="Top" Width="375" Name="custom" Source="img/gray.png" Grid.Column="3" Grid.ColumnSpan="2"    MouseMove="custom_MouseMove" Margin="0,20,170,0" MouseLeftButtonDown="custom_MouseLeftButtonDown" MouseLeftButtonUp="custom_MouseLeftButtonUp" MouseRightButtonDown="custom_MouseRightButtonDown"  />
+        </Border>
+    </Grid>
+</Window>
